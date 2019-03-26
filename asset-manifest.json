@@ -1,14 +1,14 @@
 {
-  "main.css": "/nayaabkhan.github.io/github-hosted-react-site/static/css/main.bceedb3c.chunk.css",
-  "main.js": "/nayaabkhan.github.io/github-hosted-react-site/static/js/main.4deb4022.chunk.js",
-  "main.js.map": "/nayaabkhan.github.io/github-hosted-react-site/static/js/main.4deb4022.chunk.js.map",
-  "runtime~main.js": "/nayaabkhan.github.io/github-hosted-react-site/static/js/runtime~main.5a4f8031.js",
-  "runtime~main.js.map": "/nayaabkhan.github.io/github-hosted-react-site/static/js/runtime~main.5a4f8031.js.map",
-  "static/js/2.7b7f7f25.chunk.js": "/nayaabkhan.github.io/github-hosted-react-site/static/js/2.7b7f7f25.chunk.js",
-  "static/js/2.7b7f7f25.chunk.js.map": "/nayaabkhan.github.io/github-hosted-react-site/static/js/2.7b7f7f25.chunk.js.map",
-  "index.html": "/nayaabkhan.github.io/github-hosted-react-site/index.html",
-  "precache-manifest.db2798e74601b16a260ddf91792931f4.js": "/nayaabkhan.github.io/github-hosted-react-site/precache-manifest.db2798e74601b16a260ddf91792931f4.js",
-  "service-worker.js": "/nayaabkhan.github.io/github-hosted-react-site/service-worker.js",
-  "static/css/main.bceedb3c.chunk.css.map": "/nayaabkhan.github.io/github-hosted-react-site/static/css/main.bceedb3c.chunk.css.map",
-  "static/media/logo.svg": "/nayaabkhan.github.io/github-hosted-react-site/static/media/logo.5d5d9eef.svg"
+  "main.css": "/github-hosted-react-site/static/css/main.bceedb3c.chunk.css",
+  "main.js": "/github-hosted-react-site/static/js/main.cff5c759.chunk.js",
+  "main.js.map": "/github-hosted-react-site/static/js/main.cff5c759.chunk.js.map",
+  "runtime~main.js": "/github-hosted-react-site/static/js/runtime~main.45271c22.js",
+  "runtime~main.js.map": "/github-hosted-react-site/static/js/runtime~main.45271c22.js.map",
+  "static/js/2.7b7f7f25.chunk.js": "/github-hosted-react-site/static/js/2.7b7f7f25.chunk.js",
+  "static/js/2.7b7f7f25.chunk.js.map": "/github-hosted-react-site/static/js/2.7b7f7f25.chunk.js.map",
+  "index.html": "/github-hosted-react-site/index.html",
+  "precache-manifest.997370aab17a76506cc838fedac66927.js": "/github-hosted-react-site/precache-manifest.997370aab17a76506cc838fedac66927.js",
+  "service-worker.js": "/github-hosted-react-site/service-worker.js",
+  "static/css/main.bceedb3c.chunk.css.map": "/github-hosted-react-site/static/css/main.bceedb3c.chunk.css.map",
+  "static/media/logo.svg": "/github-hosted-react-site/static/media/logo.5d5d9eef.svg"
 }
